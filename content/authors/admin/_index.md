@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:c.pipal@uva.nl'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/christianpipal
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "c.pipal@uva.nl"
@@ -72,4 +72,4 @@ highlight_name: true
 
 Hi! I'm a Ph.D. candidate in political science at the University of Amsterdam and member of the Hot Politics Lab. My disseration research is part of the Horizon 2020 funded POLEMIC project. I am also a member of the Horizon 2020 project OPTED. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
