@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2022-02-1T00:00:00Z"
-doi: "10.1080/21670811.2020.1764374"
+doi: "10.17605/OSF.IO/68CJE"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2022-05-28T00:00:00Z"
