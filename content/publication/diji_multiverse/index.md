@@ -1,5 +1,5 @@
 ---
-title: "The Unified Framework of Media Diversity: A Systematic Literature Review"
+title: "If You Have Choices, Why Not Choose (and Share) All of Them? A Multiverse Approach to Understanding News Engagement on Social Media"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
