@@ -18,15 +18,15 @@ bio: bla
 
 # Interests to show in About widget
 interests:
-- bla
-- bla
-- bla
+- Computational Social Science
+- Political Communication
+- Open Science Practices
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Political Science
-    institution: Stanford University
+    institution: University of Amsterdam
     year: since 2019
   - course: M.A. in European Union and Russia Studies
     institution: University of Tartu
