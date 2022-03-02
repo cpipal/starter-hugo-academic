@@ -21,7 +21,7 @@ interests:
 - Political Communication
 - Computational Social Science
 - Quantitative Text Analysis
-- Open Science Practices
+- Open Research Practices
 
 # Education to show in About widget
 education:
