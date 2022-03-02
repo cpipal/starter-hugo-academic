@@ -51,7 +51,7 @@ url_dataset: "https://osf.io/uzca3/"
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://osf.io/68cje/"
+url_source: ""
 url_video: ""
 
 # Featured image
