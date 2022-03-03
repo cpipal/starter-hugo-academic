@@ -14,8 +14,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-02-01T00:00:00Z"
-doi: "10.17605/OSF.IO/68CJE"
+date: "2022-03-02T00:00:00Z"
+doi: "10.1080/21670811.2022.2036623"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2022-05-28T00:00:00Z"
@@ -27,7 +27,7 @@ doi: "10.17605/OSF.IO/68CJE"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Digital Journalism (accepted)*
+publication: In *Digital Journalism*
 #publication_short: In *WebSci'21*
 
 abstract: "Social  sciences  are  facing  a  crisis  of  replicability,  and  concerns  about  the  confidence  in quantitative  findings  have  resulted  in  an  increasing  interest  in  open  science  practices  across many  fields.  In  this  article  we  introduce  scholars  of  journalism  studies  and  communication science  to  multiverse  analysis  while  addressing  the  possible  reasons  of  heterogeneity  in  the findings of research on engagement with news on social media. Using the question of which news  article  characteristics  predict  news  engagementon  social  media,  this  illustration  of the multiverse approach shows how different measurement, data processing, and modelling choices lead  to  divergent  conclusions.  In  particular,  we  show  how  the  selection  of  widely  used automated text analysis tools and preprocessing steps influence the conclusions drawn from the analysis. We also use this illustration to guide interested scholars through the different steps of doing a multiverse analysis. More broadly, we demonstrate how multiverse analysis can be an open and transparent research approach in a field that is increasingly faced with a wide range of analytical choices."
