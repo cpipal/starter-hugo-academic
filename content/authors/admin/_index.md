@@ -69,7 +69,7 @@ email: "c.pipal@uva.nl"
 highlight_name: true
 ---
 
-Hi! I'm a Ph.D. candidate in political science at the [University of Amsterdam](https://www.uva.nl/) and member of the [Hot Politics Lab](https://www.hotpolitics.eu). My disseration research is part of the Horizon 2020 funded project [POLEMIC](http://www.hotpolitics.eu/polemic/). I am also a member of the Horizon 2020 project [OPTED](https://opted.eu/). 
+Hi! I'm a Ph.D. candidate in political science at the [University of Amsterdam](https://www.uva.nl/) and member of the [Hot Politics Lab](https://www.hotpolitics.eu). My disseration research is part of the Horizon 2020 funded ERC project [POLEMIC](http://www.hotpolitics.eu/polemic/). I am also a member of the Horizon 2020 project [OPTED](https://opted.eu/). 
 
 
 
